@@ -1,0 +1,9 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;500;600;700&family=Roboto&family=Sen:wght@400;700;800&display=swap');
+:root {
+    --red: #FD5056;
+    --color-text: #130606;
+    --gray: #696262;
+    --bg-footer: #280C0C;
+    --smooth:all .2s ease-in;
+}
